@@ -1,0 +1,12 @@
+[
+  "tests/test_shop.py::TestCart::test_add_product",
+  "tests/test_shop.py::TestCart::test_buy",
+  "tests/test_shop.py::TestCart::test_buy_more_than_available",
+  "tests/test_shop.py::TestCart::test_clear",
+  "tests/test_shop.py::TestCart::test_get_total_price",
+  "tests/test_shop.py::TestCart::test_remove_product",
+  "tests/test_shop.py::TestCart::test_remove_product_not_in_cart",
+  "tests/test_shop.py::TestProducts::test_product_buy",
+  "tests/test_shop.py::TestProducts::test_product_buy_more_than_available",
+  "tests/test_shop.py::TestProducts::test_product_check_quantity"
+]
